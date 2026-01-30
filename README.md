@@ -33,6 +33,8 @@ $$\sigma_{n+1} = \sigma_n - \frac{C(\sigma_n) - C_{market}}{\mathcal{V}(\sigma_n
 ![Final Iteration of The Volatility Surface Visualization](finalplot.png)
 *Figure 2: Improved the Volatility Surface showing a more refined "SMILE" across the most volatile periods ie. 0-9 months expiry.*
 
+![Volatility Surface Visualization Video](final.mov)
+*Video 1: 3D Volatility Surface graph video*
 ## 6. Tech Stack
 * **Python**
 * **SciPy** (Optimization/Stats)
