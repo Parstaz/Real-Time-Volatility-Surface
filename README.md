@@ -27,8 +27,11 @@ $$\sigma_{n+1} = \sigma_n - \frac{C(\sigma_n) - C_{market}}{\mathcal{V}(\sigma_n
 ## 5. Visualizations
 *(Note: To view the interactive plot, clone the repo and run the notebook locally)*
 
-![Volatility Surface Visualization](newplot.png)
+![1st iteration of Volatility Surface Visualization](newplot.png)
 *Figure 1: 3D Volatility Surface showing the characteristic "Smile" across strike prices and term structure across expiration dates.*
+
+![Final Iteration of The Volatility Surface Visualization](finalplot.png)
+*Figure 2: Improved the Volatility Surface showing a more refined "SMILE" across the most volatile periods ie. 0-9 months expiry.*
 
 ## 6. Tech Stack
 * **Python**
